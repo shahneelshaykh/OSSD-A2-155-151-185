@@ -1,0 +1,14 @@
+# .gitignore for Python projects
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.vscode/
+.idea/
+.DS_Store
+*.sqlite
+*.pyc
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
